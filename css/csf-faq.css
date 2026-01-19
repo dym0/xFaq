@@ -1,0 +1,22 @@
+.csf-faq .faq-item {
+  margin-bottom: 10px;
+}
+
+.csf-faq .faq-question {
+  display: block;
+  width: 100%;
+  text-align: left;
+  font-size: 18px;
+  font-weight: bold;
+  background: #f0f0f0;
+  border: none;
+  padding: 10px;
+  cursor: pointer;
+}
+
+.csf-faq .faq-answer {
+  padding: 10px;
+  background: #fff;
+  border: 1px solid #ddd;
+  border-top: none;
+}
